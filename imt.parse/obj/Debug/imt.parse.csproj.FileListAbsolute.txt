@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\imt.parse\imt.parse\obj\Debug\imt.parse.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\imt.parse\imt.parse\obj\Debug\imt.parse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\imt.parse\imt.parse\bin\Debug\imt.parse.exe.config
+C:\Users\User\source\repos\imt.parse\imt.parse\bin\Debug\imt.parse.exe
+C:\Users\User\source\repos\imt.parse\imt.parse\bin\Debug\imt.parse.pdb
+C:\Users\User\source\repos\imt.parse\imt.parse\obj\Debug\imt.parse.exe
+C:\Users\User\source\repos\imt.parse\imt.parse\obj\Debug\imt.parse.pdb
